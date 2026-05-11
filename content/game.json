@@ -1,0 +1,445 @@
+{
+  "name": "Squad Busters",
+  "domain": "squadbusters.online",
+  "slug": "squadbusters",
+  "genre": "Clicker",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://8games.net/brawl-stars-games/squad-busters-chest-simulator.html",
+  "embedSource": "8Games - Squad Busters: Chest Simulator",
+  "seo": {
+    "title": "Play Squad Busters Free Online - No Download Browser Game",
+    "description": "Play Squad Busters free online in your browser. Open chests, collect characters, and build a stronger squad through quick clicker-style progress. No download, no account, and easy controls.",
+    "keywords": [
+      "Squad Busters",
+      "Squad Busters online",
+      "play Squad Busters",
+      "Squad Busters free",
+      "free online game",
+      "browser game",
+      "clicker game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Squad Busters Free Online",
+    "heroSubtitle": "Open chests, collect characters, and build a stronger squad through quick clicker-style progress. Start instantly in your browser with no download or account.",
+    "lede": "Squad Busters is a free browser game where you open chests, collect characters, and build a stronger squad through quick clicker-style progress. It is built for quick sessions, clear goals, and smooth play on desktop or mobile.",
+    "stats": [
+      {
+        "value": "Fast",
+        "label": "Chest Opens"
+      },
+      {
+        "value": "1",
+        "label": "Main Action"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Play"
+      }
+    ],
+    "about": {
+      "kicker": "About Squad Busters",
+      "headline": "A simple browser game with a clear reason to keep playing.",
+      "paragraph1": "Squad Busters keeps the focus on understandable actions and satisfying progress. You do not need to install an app, create an account, or learn a long rulebook before playing.",
+      "paragraph2": "Click to open boxes, reveal new fighters, grow your collection, and keep improving your squad as more rewards appear. The result is a casual game that works well for short breaks while still giving you room to improve."
+    },
+    "howToPlay": {
+      "headline": "How to play Squad Busters",
+      "subheading": "Learn the goal, make your first move, and improve with each round."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Go to the Play page and Squad Busters loads through the local browser wrapper."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Goal",
+        "desc": "Look at the first screen and identify what the level or round is asking you to do."
+      },
+      {
+        "icon": "target",
+        "title": "Make a Careful Move",
+        "desc": "Use your mouse, touch screen, or keyboard controls depending on the prompt shown in the game."
+      },
+      {
+        "icon": "refresh",
+        "title": "Adjust Your Plan",
+        "desc": "If a move does not work, slow down and try a different order or route."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Finish and Improve",
+        "desc": "Complete the objective, then replay or continue to sharpen your timing and decisions."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Beginner",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Casual",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Challenge",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Strategy",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Mastery",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Chest Opening Loop",
+        "desc": "The main action is quick and readable: tap, open, collect, and continue building."
+      },
+      {
+        "icon": "bolt",
+        "title": "Collection Progress",
+        "desc": "Each reveal adds to the feeling of building a larger and more varied squad."
+      },
+      {
+        "icon": "bolt",
+        "title": "Simple Clicker Pace",
+        "desc": "No complex setup is needed, making it easy to play for a few minutes at a time."
+      },
+      {
+        "icon": "bolt",
+        "title": "Fan-Friendly Theme",
+        "desc": "The page focuses on the chest simulator format and does not claim to be an official release."
+      },
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Access",
+        "desc": "The game is loaded through the local play wrapper, with no installation required."
+      },
+      {
+        "icon": "bolt",
+        "title": "Low Friction Play",
+        "desc": "Controls are simple enough for desktop and mobile users to understand immediately."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Squad Busters?",
+        "a": "Squad Busters is a free online clicker game that runs in your browser."
+      },
+      {
+        "q": "Is Squad Busters free?",
+        "a": "Yes. Squad Busters can be played free online without a paid download or required account."
+      },
+      {
+        "q": "Does Squad Busters work on mobile?",
+        "a": "The site and wrapper are mobile friendly. The external game controls may vary by device."
+      },
+      {
+        "q": "Do I need to install anything?",
+        "a": "No installation is needed. Open the Play page and the game loads in the browser."
+      },
+      {
+        "q": "Is the game safe for casual players?",
+        "a": "The page avoids chat, user uploads, and account collection. Standard ads or external game notices may still appear from the game provider."
+      },
+      {
+        "q": "Where is the external game loaded from?",
+        "a": "The local play route loads the external game source recorded as 8Games - Squad Busters: Chest Simulator."
+      }
+    ],
+    "cta": {
+      "headline": "Play Squad Busters now",
+      "subtext": "Open the browser game, learn the first objective, and start playing in seconds."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open Squad Busters",
+        "desc": "Use the Play page. The local wrapper keeps the site route simple and consistent."
+      },
+      {
+        "title": "Follow the On-Screen Prompt",
+        "desc": "Read the first instruction before making your move."
+      },
+      {
+        "title": "Play and Improve",
+        "desc": "Use each round to refine your timing, order, or strategy."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "Can I play Squad Busters online for free?",
+        "a": "Yes. The game is available through the browser play page with no required download."
+      },
+      {
+        "q": "What devices are supported?",
+        "a": "Modern desktop and mobile browsers are supported by the site. The external game may perform best on the device type it was designed for."
+      },
+      {
+        "q": "Why does the site use /game/index.html?",
+        "a": "The local wrapper keeps the public play URL stable while the real external game source is stored separately in the content file."
+      },
+      {
+        "q": "Is an account required?",
+        "a": "No account is required by this site to open and play."
+      },
+      {
+        "q": "Can children play it?",
+        "a": "The page is written for general audiences and avoids social features. Parents should still supervise external ads and links as they would on any free game site."
+      },
+      {
+        "q": "What should I do if the game does not load?",
+        "a": "Refresh the page, disable strict iframe blocking for this site, or try a current Chrome, Edge, Firefox, or Safari browser."
+      },
+      {
+        "q": "Is this an official game page?",
+        "a": "This is an independent browser play page that links to a free external game source. It does not claim ownership of third-party game brands."
+      },
+      {
+        "q": "How do I get better?",
+        "a": "Start slowly, watch how the game responds, and repeat short sessions until the controls feel natural."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Squad Busters is a free browser game where you open chests, collect characters, and build a stronger squad through quick clicker-style progress. The rules are easy to start, but better results come from paying attention to timing, order, and the feedback shown on screen.",
+    "steps": [
+      {
+        "title": "Open the Play Page",
+        "desc": "The game loads from the local /game/index.html route, which points to the external playable source."
+      },
+      {
+        "title": "Understand the Objective",
+        "desc": "Take a few seconds to read the first prompt and identify what counts as success."
+      },
+      {
+        "title": "Make Your First Move",
+        "desc": "Use touch, mouse, or keyboard input as shown by the game. Begin slowly until the controls feel clear."
+      }
+    ],
+    "mechanic": {
+      "title": "Core Mechanic",
+      "desc": "Click to open boxes, reveal new fighters, grow your collection, and keep improving your squad as more rewards appear."
+    },
+    "difficultyProgression": "Early moments are best used for learning the controls. As you continue, focus on cleaner decisions, fewer wasted moves, and faster recognition of what the game is asking you to do.",
+    "tips": [
+      {
+        "title": "Keep opening boxes",
+        "desc": "Progress comes from steady taps and repeated chest reveals."
+      },
+      {
+        "title": "Track your collection",
+        "desc": "Notice which characters appear often and which ones are still missing."
+      },
+      {
+        "title": "Use short sessions",
+        "desc": "The clicker format works best in quick bursts of focused play."
+      },
+      {
+        "title": "Do not rush menus",
+        "desc": "Wait for each result to display before starting the next action."
+      },
+      {
+        "title": "Focus on completion",
+        "desc": "The fun is in filling out the squad, not just tapping as fast as possible."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides and Strategy",
+    "subheading": "Helpful articles for playing Squad Busters with more confidence.",
+    "introParagraph": "These guides explain the basics, common mistakes, and practical ways to enjoy Squad Busters without needing a download or account.",
+    "posts": [
+      {
+        "slug": "getting-started-with-squad-busters",
+        "title": "Getting Started with Squad Busters",
+        "excerpt": "A simple beginner guide to opening the game, learning the controls, and finishing your first session.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "Guide",
+        "sections": [
+          {
+            "heading": "What is Squad Busters?",
+            "paragraphs": [
+              "Squad Busters is a free browser game focused on quick, understandable play. You can open it from the Play page and begin without creating an account.",
+              "The main goal is to open chests, collect characters, and build a stronger squad through quick clicker-style progress, using the controls and prompts shown inside the game window."
+            ]
+          },
+          {
+            "heading": "Your First Session",
+            "paragraphs": [
+              "Start by observing the first screen instead of clicking immediately. Most mistakes happen when players skip the basic prompt.",
+              "Once you understand the goal, make one careful move and watch how the game responds. That feedback teaches you more than guessing quickly."
+            ]
+          },
+          {
+            "heading": "Why It Works Well in a Browser",
+            "paragraphs": [
+              "The game is short-session friendly, so you can play for a few minutes and stop without losing a long setup process.",
+              "Because the site uses a local wrapper, the play route stays consistent while the external source remains recorded in the content file."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "practical-tips-for-squad-busters",
+        "title": "Practical Tips for Squad Busters",
+        "excerpt": "Useful habits that make the game easier, cleaner, and more satisfying.",
+        "category": "Strategy",
+        "readTime": "6 min read",
+        "date": "2026-01-05",
+        "icon": "Strategy",
+        "sections": [
+          {
+            "heading": "Slow Down First",
+            "paragraphs": [
+              "Fast play feels good only after the controls are familiar. In the first few rounds, accuracy matters more than speed.",
+              "A short pause before each action helps you understand the layout and avoid repeating the same mistake."
+            ]
+          },
+          {
+            "heading": "Look for Feedback",
+            "paragraphs": [
+              "Every good browser game gives feedback through movement, sound, score changes, or visual progress. Use those signals to adjust your next action.",
+              "If something fails, treat it as information rather than frustration. Change the order, route, or timing on the next attempt."
+            ]
+          },
+          {
+            "heading": "Build a Repeatable Routine",
+            "paragraphs": [
+              "Try to begin each round the same way: read the objective, scan the screen, then act. This routine makes the game easier to learn.",
+              "Over time, your decisions become faster because you are recognizing patterns instead of reacting randomly."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "is-squad-busters-good-for-short-breaks?",
+        "title": "Is Squad Busters Good for Short Breaks?",
+        "excerpt": "Why lightweight browser games can be useful when played in reasonable sessions.",
+        "category": "Wellbeing",
+        "readTime": "5 min read",
+        "date": "2026-01-10",
+        "icon": "Wellbeing",
+        "sections": [
+          {
+            "heading": "Quick Play Has a Place",
+            "paragraphs": [
+              "A short game session can be a practical reset between tasks when it has clear rules and a natural stopping point.",
+              "Squad Busters works well for this because it does not require a large download, login process, or long tutorial before play begins."
+            ]
+          },
+          {
+            "heading": "Keep Sessions Intentional",
+            "paragraphs": [
+              "The healthiest way to play is to decide roughly how long you want to spend before you start.",
+              "Stopping after a few rounds keeps the game enjoyable and prevents casual play from turning into distraction."
+            ]
+          },
+          {
+            "heading": "Active Beats Passive",
+            "paragraphs": [
+              "Games that ask you to solve, time, sort, collect, or manage can feel more engaging than passive scrolling.",
+              "The key is balance: play for a focused break, then return to what you were doing."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "common-mistakes-in-squad-busters",
+        "title": "Common Mistakes in Squad Busters",
+        "excerpt": "Small errors that make the game harder than it needs to be, and how to avoid them.",
+        "category": "Guide",
+        "readTime": "7 min read",
+        "date": "2026-01-15",
+        "icon": "Guide",
+        "sections": [
+          {
+            "heading": "Clicking Before Reading",
+            "paragraphs": [
+              "Many players lose time because they start pressing buttons before they know the objective.",
+              "Read the first prompt and identify the goal. That small habit prevents most early confusion."
+            ]
+          },
+          {
+            "heading": "Ignoring the Pattern",
+            "paragraphs": [
+              "Levels and rounds usually repeat certain ideas. When you notice a pattern, use it instead of treating every moment as brand new.",
+              "This is especially useful in games built around order, collection, timing, or route planning."
+            ]
+          },
+          {
+            "heading": "Trying to Force Speed",
+            "paragraphs": [
+              "Speed is a result of familiarity. If you force it too early, you usually create extra mistakes.",
+              "Focus on clean decisions first. Faster play will come naturally after a few sessions."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parent-guide-to-squad-busters",
+        "title": "Parent Guide to Squad Busters",
+        "excerpt": "What parents should know about the game page, browser play, and reasonable supervision.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-20",
+        "icon": "Family",
+        "sections": [
+          {
+            "heading": "Simple Access",
+            "paragraphs": [
+              "Squad Busters can be opened in a browser without an account on this site. That keeps access simple and avoids collecting login details here.",
+              "The playable game itself is supplied by an external source, so parents should supervise ads and any outgoing links as they would with other free online games."
+            ]
+          },
+          {
+            "heading": "Set Clear Limits",
+            "paragraphs": [
+              "Before play begins, agree on a time limit or a number of rounds. Clear boundaries make casual games easier to enjoy responsibly.",
+              "Short sessions are usually enough for children to learn the controls and enjoy the challenge without overdoing screen time."
+            ]
+          },
+          {
+            "heading": "Play Together First",
+            "paragraphs": [
+              "For younger players, it helps to play the first round together. You can explain the objective, controls, and when to stop.",
+              "This also gives you a chance to check whether the game feels appropriate for your household."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
