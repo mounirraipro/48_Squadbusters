@@ -310,4 +310,25 @@ export const articleMeta: Record<string, ArticleMeta> = {
         category: 'Guides',
         readTime: '7 min read',
     },
+
+    'squad-busters-chest-simulator-guide': {
+        slug: 'squad-busters-chest-simulator-guide',
+        title: 'Squad Busters Chest Simulator Guide: How to Build a Better Collection',
+        description: 'A practical Squad Busters guide for opening chests with more purpose, reading rarity, tracking progress, and enjoying short browser sessions.',
+        datePublished: '2026-05-24',
+        dateModified: '2026-05-24',
+        keywords: ['Squad Busters guide', 'Squad Busters chest simulator', 'Squad Busters tips', 'browser collection game'],
+        category: 'Guide',
+        readTime: '8 min read',
+    },
+    'why-squad-busters-is-good-for-quick-breaks': {
+        slug: 'why-squad-busters-is-good-for-quick-breaks',
+        title: 'Why Squad Busters Works Well as a Quick Break Game',
+        description: 'A helpful look at why Squad Busters fits short browser sessions, how to keep play balanced, and what makes collection games satisfying.',
+        datePublished: '2026-05-24',
+        dateModified: '2026-05-24',
+        keywords: ['Squad Busters quick break', 'short session browser game', 'casual collection game', 'healthy gaming habits'],
+        category: 'Wellbeing',
+        readTime: '8 min read',
+    },
 };
